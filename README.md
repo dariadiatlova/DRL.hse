@@ -1,2 +1,3 @@
-# DRL.hse
-homework assignments. deep reinforcement learning, spring 2021
+# Deep Reinforcment Learning, spring 2021
+Homework assignments:
+### 1. Implementation of Q.learning algorithms
